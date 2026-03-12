@@ -2,6 +2,7 @@ import React from 'react';
 
 const ImageContainer = () => {
     return (
+        <div> the pictures</div>
         <div className="image-container">
             <picture>
                 <source media="(max-width: 768px)" srcSet="/images/PAHLA.jpg" />
