@@ -30,6 +30,8 @@ const ImageContainer = () => {
                 <img src="/images/success.jpg" alt="Successful businessman celebrating, urban skyline view" />
             </picture>
         </div>
+    <div> the pictures</div>
+    <div> the pictures</div>
     );
 };
 
